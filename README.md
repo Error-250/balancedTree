@@ -28,7 +28,7 @@ balanced Tree
 本平衡树与此不同, 它是在创建的时候就不断调整为平衡树.
 
 ### 运行截图
-!()[https://github.com/Error-250/balancedTree/blob/master/result.PNG]
+![](https://github.com/Error-250/balancedTree/blob/master/result.PNG)
 
 ### 编译
 ```
