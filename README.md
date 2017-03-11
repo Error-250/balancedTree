@@ -1,36 +1,36 @@
 # balancedTree
 balanced Tree
-## ÎÄ¼þ½á¹¹
+## æ–‡ä»¶ç»“æž„
 ```
 +
 |
- --main.c Ö÷³ÌÐò
+ --main.c ä¸»ç¨‹åº
 |
- --trre.c ¶þ²æÊ÷
+ --trre.c äºŒå‰æ ‘
 |
- --tree.h ¶þ²æÊ÷½á¹¹Ìå¼°º¯ÊýµÄÉùÃ÷
+ --tree.h äºŒå‰æ ‘ç»“æž„ä½“åŠå‡½æ•°çš„å£°æ˜Ž
 |
- --adjusttree.h µ÷ÕûÊ÷µÄº¯ÊýÉùÃ÷
+ --adjusttree.h è°ƒæ•´æ ‘çš„å‡½æ•°å£°æ˜Ž
 |
- --adjusttree.c µ÷Õû¶þ²æÊ÷
+ --adjusttree.c è°ƒæ•´äºŒå‰æ ‘
 |
- --Makefile Ò»¼ü±àÒë
+ --Makefile ä¸€é”®ç¼–è¯‘
 |
  --util+
     |
-     --queue.h ¶ÓÁÐ½á¹¹Ìå¼°º¯ÊýÉùÃ÷
+     --queue.h é˜Ÿåˆ—ç»“æž„ä½“åŠå‡½æ•°å£°æ˜Ž
     |
-     --queue.c ¶ÓÁÐ
+     --queue.c é˜Ÿåˆ—
 ```
 
-### ¼ò½é
-ÖøÃûµÄÆ½ºâÊ÷Ëã·¨ÓÐAVL, ºìºÚÊ÷µÈ, È»¶øËûÃÇÊÇÔÚÒÑ¾­´æÔÚÒ»¿ÃÊ÷µÄÇé¿öÏÂ½øÐÐµ÷Õû¡£
-±¾Æ½ºâÊ÷Óë´Ë²»Í¬, ËüÊÇÔÚ´´½¨µÄÊ±ºò¾Í²»¶Ïµ÷ÕûÎªÆ½ºâÊ÷.
+### ç®€ä»‹
+è‘—åçš„å¹³è¡¡æ ‘ç®—æ³•æœ‰AVL, çº¢é»‘æ ‘ç­‰, ç„¶è€Œä»–ä»¬æ˜¯åœ¨å·²ç»å­˜åœ¨ä¸€æ£µæ ‘çš„æƒ…å†µä¸‹è¿›è¡Œè°ƒæ•´ã€‚
+æœ¬å¹³è¡¡æ ‘ä¸Žæ­¤ä¸åŒ, å®ƒæ˜¯åœ¨åˆ›å»ºçš„æ—¶å€™å°±ä¸æ–­è°ƒæ•´ä¸ºå¹³è¡¡æ ‘.
 
-### ÔËÐÐ½ØÍ¼
+### è¿è¡Œæˆªå›¾
+!()[https://github.com/Error-250/balancedTree/blob/master/result.PNG]
 
-
-### ±àÒë
+### ç¼–è¯‘
 ```
 make all
 ```
